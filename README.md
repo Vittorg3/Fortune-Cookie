@@ -27,3 +27,13 @@ __Para instalar todas as dependências do projeto use o seguinte comando__:
 <pre>
    npm install ou yarn install
 </pre>
+
+__Após a instalação das depedências, é a hora de criar a build do projeto com o seguinte comando__:
+<pre>
+   npm run projectInstall
+</pre>
+
+__Com a build da api criada, execute o seguinte comando para iniciar a API:__:
+<pre>
+   npm start
+</pre>
