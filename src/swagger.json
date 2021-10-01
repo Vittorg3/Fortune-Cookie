@@ -1,0 +1,22 @@
+{
+    "openapi": "3.0.1",
+    "info": {
+        "title": "Fortune Cookie",
+        "description": "Document from Fortune Cookie api",
+        "version": "1.0.0"
+    },
+    "basePath": "/",
+    "paths": {
+        "/phrase": {
+            "get": {
+                "tags": ["Phrases"],
+                "description": "Rota que busca uma frase aleatória",
+                "responses": {
+                    "200": {
+                        "phrase": "phrase here"
+                    }
+                }
+            }
+        }
+    }
+}
