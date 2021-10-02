@@ -1,4 +1,4 @@
-import express, { application } from 'express';
+import express from 'express';
 const server = express();
 
 import dotenv from 'dotenv';
@@ -6,6 +6,8 @@ dotenv.config();
 
 import cors from 'cors';
 server.use(cors());
+
+server.use('/img', express.static(__dirname + '/static-ui/public/images/'));
 
 server.use(express.json());
 server.use(express.urlencoded({extended: true}));

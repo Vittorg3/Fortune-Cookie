@@ -50,7 +50,7 @@ a opção de passar um array de frases no construtor dela__.
 
 ![phrase](./src/public/images/phrase2.png?raw=true "instanciando")
 
-Caso você não passe, ele irá iniciar com o array de frases
+__Caso você não passe, ele irá iniciar com o array de frases
 padrão da classe__.
 
 ![phrase](./src/public/images/phrase.png?raw=true "construtor da classe")
