@@ -37,3 +37,8 @@ __Com a build da api criada, execute o seguinte comando para iniciar a API:__:
 <pre>
    npm start
 </pre>
+
+__Todas as rotas estão documentadas utilizando o Swagger. Visite a seguinte rota para visualizar a documentação da API:__:
+<pre>
+   /docs
+</pre>
