@@ -33,12 +33,12 @@ __Após a instalação das depedências, é a hora de criar a build do projeto c
    npm run projectInstall
 </pre>
 
-__Com a build da api criada, execute o seguinte comando para iniciar a API:__:
+__Com a build da api criada, execute o seguinte comando para iniciar a API:__
 <pre>
    npm start
 </pre>
 
-__Todas as rotas estão documentadas utilizando o Swagger. Visite a seguinte rota para visualizar a documentação da API:__:
+__Todas as rotas estão documentadas utilizando o Swagger. Visite a seguinte rota para visualizar a documentação da API:__
 <pre>
    /docs
 </pre>
