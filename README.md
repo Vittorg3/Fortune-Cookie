@@ -28,7 +28,7 @@ __Para instalar todas as dependências do projeto use o seguinte comando__:
    npm install ou yarn install
 </pre>
 
-__Após a instalação das depedências, é a hora de criar a build do projeto com o seguinte comando__:
+__Após a instalação das depedências, é hora de criar a build do projeto com o seguinte comando__:
 <pre>
    npm run projectInstall
 </pre>
@@ -54,3 +54,5 @@ __Caso você não passe, ele irá iniciar com o array de frases
 padrão da classe__.
 
 ![phrase](./src/static-ui/public/images/phrase.png?raw=true "construtor da classe")
+
+__Não se esqueça de criar uma nova build caso você altere o código. Sucesso!__. 
