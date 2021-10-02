@@ -42,3 +42,15 @@ __Todas as rotas estão documentadas utilizando o Swagger. Visite a seguinte rot
 <pre>
    /docs
 </pre>
+
+# Observações ✏️
+
+__Caso você queira colocar suas próprias frases, não precisa se preocupar. Ao instanciar a classe phrase, você têm
+a opção de passar um array de frases no construtor dela__. 
+
+![phrase](./src/public/images/phrase2.png?raw=true "instanciando")
+
+Caso você não passe, ele irá iniciar com o array de frases
+padrão da classe__.
+
+![phrase](./src/public/images/phrase.png?raw=true "construtor da classe")
