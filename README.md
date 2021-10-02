@@ -55,4 +55,4 @@ padrão da classe__.
 
 ![phrase](./src/static-ui/public/images/phrase.png?raw=true "construtor da classe")
 
-__Não se esqueça de criar uma nova build caso você altere o código. Sucesso!__. 
+__Não se esqueça de criar uma nova build caso você altere o código. Sucesso!__ 
